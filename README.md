@@ -21,4 +21,4 @@ You're analyzing Superstore sales data using Databricks, combining PySpark and S
 
 ## Note:
 - I have shared the databricks notebook I used to develop the project in .ipynb format along with raw code with readable format
-- I have used both PySpark and Spark SQL in single notebook, use either PySpark code snippets or Spark SQL code snippets based on the requirements.
+- I have used both PySpark and Spark SQL in single notebook to test my knowledge on PySpark(Python) and Spark SQL(SQL), use either PySpark code snippets or Spark SQL code snippets based on the requirements.
