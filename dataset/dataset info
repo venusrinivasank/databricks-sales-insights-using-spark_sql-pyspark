@@ -1,0 +1,4 @@
+1 download the dataset that is available inside the dataset folder named "superstore.csv"
+2 then make sure you copy the file path properly, paste in the code snippet I provide below for reference
+  df = spark.read.csv('/FileStore/tables/superstore.csv', header = True, inferSchema = True)
+3 better to copy the file path which will shown after uploading the file
